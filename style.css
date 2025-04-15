@@ -68,8 +68,8 @@
     }
     .floatright{
         /*float: left;*/
-        margin-top: 200px;
-
+        position:relative;
+        top: 200px;
     }
     img.guitaroutline{
         float: left;
