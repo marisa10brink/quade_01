@@ -69,7 +69,6 @@
     }
     .floatright{
         /*float: left;*/
-        clear: left;
         position:absolute;
         top: 200px;
     }
