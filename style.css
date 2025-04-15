@@ -68,6 +68,7 @@
     }
     .floatright{
         /*float: left;*/
+        vertical-align:bottom;
 
     }
     img.guitaroutline{
